@@ -1,1 +1,1 @@
-#Sample LiferayMVC portlet with configuration
+# Sample LiferayMVC portlet with configuration

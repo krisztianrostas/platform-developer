@@ -1,1 +1,1 @@
-DXP Configuration example
+# DXP Configuration example
