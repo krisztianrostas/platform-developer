@@ -1,0 +1,1 @@
+PortletFilter example
