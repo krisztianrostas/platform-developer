@@ -1,0 +1,1 @@
+DXP Configuration example
