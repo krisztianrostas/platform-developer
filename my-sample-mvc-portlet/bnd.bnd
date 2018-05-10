@@ -1,0 +1,5 @@
+Bundle-Name: my-sample-mvc-portlet
+Bundle-SymbolicName: my.sample.mvc.portlet
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.training.constants
+-metatype: *

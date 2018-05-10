@@ -1,0 +1,1 @@
+#Sample LiferayMVC portlet with configuration
