@@ -1,1 +1,1 @@
-Hello World
+Platform Developer training additional exercises
