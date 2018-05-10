@@ -1,0 +1,1 @@
+Dynamic include example (osgi java version)
