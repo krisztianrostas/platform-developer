@@ -1,0 +1,4 @@
+Bundle-Name: gradebook-rest
+Bundle-SymbolicName: gradebook-rest
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration
